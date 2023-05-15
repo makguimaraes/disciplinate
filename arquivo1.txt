@@ -1,0 +1,3 @@
+Estamos estudando para melhorar os conceitos.
+
+Compreendi o funcionamento no git push.
